@@ -1,14 +1,5 @@
-body
-{
-  background-color: purple;
-  font-family: "Helvetica", "Arial", sans-sarif;
+body{
+  width: 700px;
+  margin: 30px auto;
+  background-color: #da8ee7;
 }
- h1
- {
-
- }
-
- p
- {
-
- }
