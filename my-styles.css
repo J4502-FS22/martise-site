@@ -1,5 +1,13 @@
+/* font-family: 'Bitter', serif;
+font-family: 'Quicksand', sans-serif; */
+
 body{
   width: 700px;
   margin: 30px auto;
   background-color: #da8ee7;
+  color: #1C0038;
+  font-family: 'Bitter', serif;
+}
+h1, h2, h3 {
+  font-family: 'Quicksand', sans-serif;
 }
