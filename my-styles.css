@@ -12,9 +12,19 @@ body{
   color: #1C0038;
   font-family: 'Bitter', serif;
 }
-h1, h2, h3 {
+h1, {
   font-family: 'Quicksand', sans-serif;
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
 ul, li {
   list-style-type: none;
+}
+a {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: none;
 }
