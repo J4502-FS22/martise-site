@@ -1,5 +1,5 @@
 /* font-family: 'Bitter', serif;
-font-family: 'Quicksand', sans-serif; */
+font-family: 'Montserrat', sans-serif; */
 
 html {
   font-size: 20px;
@@ -13,11 +13,12 @@ body{
   font-family: 'Bitter', serif;
 }
 h1, {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Monsterrat', sans-serif;
+  font-weight: 400;
 }
 h2{
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 400;
+  font-family: 'Monsterrat', sans-serif;
+  font-weight: 500;
   font-style: italic;
 }
 ul, li {
