@@ -4,7 +4,6 @@ font-family: 'Montserrat', sans-serif; */
 html {
   font-size: 20px;
 }
-
 body{
   width: 700px;
   margin: 30px auto;
@@ -12,21 +11,33 @@ body{
   color: #1C0038;
   font-family: 'Bitter', serif;
 }
+nav {
+  color: #2B2B2B;
+  background-color: #E4BDFF;
+  padding: 2rem;
+}
+nav a {
+  color: #2F0E49;
+}
+a {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: none;
+}
+section {
+  background-color: #BF66FF;
+  padding: 2rem;
+}
 h1 {
   font-family: 'Monsterrat', sans-serif;
   font-weight: 700;
   font-style: bold;
 }
-h2{
+h2 {
   font-family: 'Monsterrat', sans-serif;
   font-weight: 500;
   font-style: italic;
 }
 ul, li {
   list-style-type: none;
-}
-a {
-  font-weight: bold;
-  font-style: italic;
-  text-decoration: none;
 }
