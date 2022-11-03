@@ -6,8 +6,8 @@ html {
 }
 body{
   margin: 0px;
-  background-color: #da8ee7;
-  color: #1C0038;
+  background-color: #767DFE;
+  color: #000000;
   font-family: 'Bitter', serif;
 }
 main {
@@ -20,15 +20,15 @@ main {
   margin: 1rem auto;
 }
 nav {
-  color: #2B2B2B;
-  background-color: #E4BDFF;
+  color: #767DFE;
+  background-color: #CED7FF;
   padding: 0;
   display: block;
   margin: 0;
   border-bottom: 3px solid #FFF;
 }
 nav a {
-  color: #2F0E49;
+  color: #000000;
 }
 a {
   font-weight: bold;
@@ -36,7 +36,7 @@ a {
   text-decoration: none;
 }
 section {
-  background-color: #BF66FF;
+  background-color: #CED7FF;
   padding: 2rem;
 }
 h1 {
@@ -64,13 +64,13 @@ nav li, nav li a {
   align-items: center;
 }
 .active {
-  background-color: #da8ee7;
+  background-color: #767DFE;
   color: #000;
   padding: 1rem;
 }
 footer {
   background: #000;
-  color: #da8ee7;
+  color: #767DFE;
   width: 100%;
   margin: 0;
   padding: 1rem;
